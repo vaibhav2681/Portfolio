@@ -1,0 +1,49 @@
+ <div class="skills-container">
+
+                <div class="frontend">
+                    <h2>frontend</h2>
+                    <div class="skill-item html">
+                        <img src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" alt="">
+                        <h5>HTML</h5>
+                    </div>
+                    <div class="skill-item css">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="">
+                        <h5>CSS</h5>
+                    </div>
+                    <div class="skill-item javascript">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="">
+                        <h5>JAVASCRIPT</h5>
+                    </div>
+                    <div class="skill-item javascript">
+                        <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="">
+                        <h5>BOOTSTRAP</h5>
+                    </div>
+                </div>
+    
+                <div class="Backend">
+                    <h2>Backend</h2>
+                    <div class="skill-item ">
+                        <img src="https://imgs.search.brave.com/v7bsIqpZJRatD2wU6wD0UrxkJ_Ix8znmxoqRamt_3I0/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5naXRlbS5jb20v/cGltZ3MvbS8xOTct/MTk3MzM0M19zcWwt/ZGF0YWJhc2UtaWNv/bi1wbmctdHJhbnNw/YXJlbnQtcG5nLnBu/Zw" alt="">
+                        <h5>SQL</h5>
+                    </div>
+                </div>
+
+                <div class="other">
+                    <h2>Other</h2>
+                    <div class="skill-item ">
+                        <img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" alt="">
+                        <h5>Git</h5>
+                    </div>
+                    <div class="skill-item ">
+                        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="">
+                        <h5>Github</h5>
+                    </div>
+                    <div class="skill-item ">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" alt="">
+                        <h5>VS Code</h5>
+                    </div>
+            </div>
+
+            </div>
+            
+            </div>
